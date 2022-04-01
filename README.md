@@ -40,7 +40,7 @@
 
 <div align="center">
 <p>:briefcase: <b>Career</b> :briefcase:</p>
- <table border="0" cellpadding="0" cellspacing="0">
+ <table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
   <tr>
    <td>정보보호 관련 기업 솔루션 엔진 개발자(C/C++) (2021.12.13 ~ )</td>
   </tr>
@@ -50,7 +50,7 @@
 
 <div align="center">
  <p>:cop: <b>Military Service</b> :cop:</p>
- <table border="0" cellpadding="0" cellspacing="0">
+ <table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
   <tr>
    <td>순천향대학교 167학군단 57기 (2017 ~ 2018)</td>
   </tr>
