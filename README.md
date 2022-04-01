@@ -22,55 +22,7 @@
 </div>
 </br>
 
-<div align="center">
- <p>:mortar_board: <b>Education</b> :mortar_board:</p>
- <table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-   <td>순천향대학교 컴퓨터공학과 학사 (2019)</td>
-  </tr>
-  <tr>
-   <td>순천향대학교 정보보호학과 학사 (2019)</td>
-  </tr>
-  <tr>
-   <td>아주대학교 정보통신대학원 석사과정 (2021 ~ )</td>
-  </tr>
- </table>
-</div>
-</br>
 
-<div align="center">
-<p>:briefcase: <b>Career</b> :briefcase:</p>
- <table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
-  <tr>
-   <td>정보보호 관련 기업 솔루션 엔진 개발자(C/C++) (2021.12.13 ~ )</td>
-  </tr>
- <table>
-</div>
-</br>
-
-<div align="center">
- <p>:cop: <b>Military Service</b> :cop:</p>
- <table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
-  <tr>
-   <td>순천향대학교 167학군단 57기 (2017 ~ 2018)</td>
-  </tr>
-  <tr>
-   <td>대한민국 육군 정보통신 예비역 중위 (2019 ~ 2021)</td>
-  </tr>
-  </table>
-
-</div>
-</br>
-
-<div align="center">
-<br>:bookmark_tabs: <b>Paper</b> :bookmark_tabs:
-<p lign="left"> A low-cost Video-oculography System for Vestibular Function Testing(Park J, gong Y, Nam Y / 2017 / IEEE EMBC)</p>
-<p lign="left"> 공공의 이익을 위한 의료 빅데이터의 활용관련 법률 분석 및 의료법 개정(안) 제시 (한종찬, 박지환, 서정택 / 2018 / 정보보호학회)</p>
-<p lign="left"> 북한의 사이버공격 분석을 통한 대응방안 (박지환 / 2018 / 한국위기관리연구소 장려수상)</p>
-<p lign="left"> 양성돌발성 두위현훈 진단을 위한 저가형 비디오 안진 검사기기 개발(박지환 / 2018 / 순천향대학교 컴퓨터공학 학사학위논문)</p>
-<p lign="left"> 인공지능의 공격 위험성 분석 (고강문, 박지환 / 2018 / 순천향대학교 정보보호학 학사학위논문)</p>
-</div>
-</br>
 
 <hr/>
 <div align="center">
