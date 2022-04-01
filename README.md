@@ -1,11 +1,12 @@
 <!---
 ![img](https://user-images.githubusercontent.com/38850652/150465280-b7dffa39-78ed-4ae0-ab19-349a6d7e5eed.jpg)
 --->
-<hr/>
-<div align="center">
-<p>:hatched_chick: <b>Hello World !</b> :hatched_chick:</p>
 
-![image](https://user-images.githubusercontent.com/38850652/150457469-ca3431c2-ae81-4533-903b-95e2ffe91fa2.PNG)
+<div align="center">
+<h1>:hatched_chick: <b>Hello World !</b> :hatched_chick:</h1>
+
+![img](https://user-images.githubusercontent.com/38850652/161237500-c38476b1-25ce-475d-8490-41d276df9ee2.jpeg)
+<hr/>
 </div>
 <div align="center">
  <p>:speech_balloon: <b>SNS</b> :speech_balloon: </p>
