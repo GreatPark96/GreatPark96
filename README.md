@@ -18,7 +18,9 @@
 
 <div align="center">
  <p>:microscope: <b>Field of Study</b> :microscope: </p>
- <p>IoT, 정보보호</p>
+ <p>
+ <img src="https://img.shields.io/badge/Security-FF0000?style=for-the-badge&logo=none%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/IoT-6A5FBB?style=for-the-badge&logo=none%2B%2B&logoColor=white">
+</p>
 </div>
 </br>
 
@@ -33,7 +35,7 @@
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white">
 
 <img src="https://img.shields.io/badge/Linux OS-FCC624?style=for-the-badge&logo=linux&logoColor=white"> <img src="https://img.shields.io/badge/Windows OS-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/Mac OS-000000?style=for-the-badge&logo=macos&logoColor=white">
- ㄴㅇㄹㄴㅇㄹ{.text-left }
+ 
  
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"> <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=for-the-badge&logo=Raspberrypi&logoColor=white">
 
