@@ -3,11 +3,10 @@
 --->
 <hr/>
 <div align="center">
-<p>:hatched_chick: <b>Name</b> :hatched_chick:</p>
-<p>Park Ji Hwan</p>
-</div>
-</br>
+<p>:hatched_chick: <b>Hello World !</b> :hatched_chick:</p>
 
+![image](https://user-images.githubusercontent.com/38850652/150457469-ca3431c2-ae81-4533-903b-95e2ffe91fa2.PNG)
+</div>
 <div align="center">
  <p>:speech_balloon: <b>SNS</b> :speech_balloon: </p>
  <p>
