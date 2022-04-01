@@ -33,7 +33,6 @@
 - 인공지능의 공격 위험성 분석 (고강문, 박지환 / 2018 / 순천향대학교 정보보호학 학사학위논문)
 
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=A8B9CC"/></a>
 
 <hr/>
 <div align="center">
