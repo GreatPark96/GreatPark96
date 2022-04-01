@@ -36,7 +36,7 @@
 
 <hr/>
 <div align="center">
-🛠Technology Stack🛠
+<b>🛠Technology Stack🛠</b>
 </br></br>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 
@@ -48,7 +48,7 @@
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"> <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=for-the-badge&logo=Raspberrypi&logoColor=white">
 
 </br>
-🛠Collaboration tool Stack🛠
+<b>🛠Collaboration tool Stack🛠</b>
 </br></br>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Gitlab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white">
 
