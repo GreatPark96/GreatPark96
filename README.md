@@ -4,8 +4,6 @@
 
 <div align="center">
 <h1>:hatched_chick: <b>Hello World !</b> :hatched_chick:</h1>
-
-![img](https://user-images.githubusercontent.com/38850652/161237500-c38476b1-25ce-475d-8490-41d276df9ee2.jpeg)
 <hr/>
 </div>
 <div align="center">
