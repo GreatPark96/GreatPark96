@@ -6,9 +6,8 @@
 
 <br><b>1. Name: </b>Park Ji Hwan<br>
 
-
-<br> <a href="https://developerjaypark.tistory.com/" target='_blank'><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white"> </a><a href="https://github.com/greatPark96" target='_blank'><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"> </a> <a href="park_jh6444@naver.com" target='_blank'><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="@pjh6444" target='_blank'><img src="https://img.shields.io/badge/kakao-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=white"> </a>
-
+<br> <a href="https://developerjaypark.tistory.com/" target='_blank'><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white"> </a><a href="https://github.com/greatPark96" target='_blank'><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"> </a> <a href="mailto:park_jh6444@naver.com" target='_blank'><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="@pjh6444" target='_blank'><img src="https://img.shields.io/badge/kakao-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=white"> </a>
+pjh6444@naver.com
 <br><b>4. Education</b>
 - 순천향대학교 컴퓨터공학과 학사 (2019)
 - 순천향대학교 정보보호학과 학사 (2019)
