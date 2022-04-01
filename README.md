@@ -8,7 +8,7 @@
 
 <br><b>2. E-Mail : </b>park_jh6444@naver.com<br>
 
-<br><b>3. Blog: </b> <a href="https://developerjaypark.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/0과 1을공부하다.-FF5722?style=for-the-badge&logo=blogger&logoColor=white"> </a>
+<br><b>3. Blog: </b> <a href="https://developerjaypark.tistory.com/" target='_blank'><img src="https://img.shields.io/badge/0과 1을공부하다.-FF5722?style=for-the-badge&logo=blogger&logoColor=white"> </a>
 <br><b>4. Education</b>
 - 순천향대학교 컴퓨터공학과 학사 (2019)
 - 순천향대학교 정보보호학과 학사 (2019)
