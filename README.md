@@ -4,7 +4,7 @@
 
 <div align="center">
 <h1>:hatched_chick: <b>Hello World !</b> :hatched_chick:</h1>
-<hr/>
+
 </div>
 <div align="center">
  <p>:speech_balloon: <b>SNS</b> :speech_balloon: </p>
